@@ -30,8 +30,9 @@ To further improve this work, it would be helpful to further analyze the results
 
 As the training and testing features are too large, please kindly refer to the links below for the testing and training data.
 
-Testing Data Link: https://drive.google.com/file/d/1GFDUsAMbQWy6btUaWHwHK3IvKL7VdtNl/view?usp=sharing 
 Training Data Link: https://drive.google.com/file/d/1OoiaZa2LML5Hy8I3bccQGiIQCcpYTrNB/view?usp=sharing 
+
+Testing Data Link: https://drive.google.com/file/d/1GFDUsAMbQWy6btUaWHwHK3IvKL7VdtNl/view?usp=sharing 
 
 The labels are provided in the data folder of this repository.
 
